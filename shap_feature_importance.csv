@@ -1,0 +1,36 @@
+Feature,Mean_SHAP_Value,Rank
+loanamount,1.6881415446986918,1
+totaldue,1.3853731346865776,2
+avg_prev_loan_amount,0.03620644985915004,3
+monthly_income,0.0027570349899399224,4
+credit_score,0.0004019464862616784,5
+termdays,1.3104129030771931e-05,6
+systemloanid,1.0641452187903995e-05,7
+past_due_days,9.311414122860186e-06,8
+age,8.768418207614184e-06,9
+avg_prev_term,4.592619782336015e-06,10
+payment_behavior_score,1.5222398846741256e-06,11
+loannumber,1.5046381400819498e-06,12
+latitude_gps,9.571665905860382e-07,13
+days_since_approval,8.53077851390703e-07,14
+longitude_gps,8.145903379222953e-07,15
+days_since_creation,6.918997813129466e-07,16
+missed_payments_6mo,3.6799692661629453e-07,17
+gender,2.3979964915920367e-07,18
+num_credit_cards,1.5329618417460002e-07,19
+prev_loan_count,8.359565478161625e-08,20
+employment_status_clients_Permanent,6.118095590491061e-08,21
+employment_status_clients_Unemployed,3.746846687403186e-08,22
+loan_purpose_Education,2.519652094102832e-08,23
+marital_status_Married,2.4782540813322876e-08,24
+loan_purpose_Home,1.8135978637373986e-08,25
+loan_purpose_Car,1.201616314438934e-08,26
+loan_purpose_Medical,6.122801470923706e-09,27
+risk_band_Medium Risk,4.925846127630566e-09,28
+marital_status_Single,2.5308636770648087e-09,29
+employment_status_clients_Student,2.281151452665991e-09,30
+employment_status_clients_Self-Employed,1.0138155234261908e-09,31
+debt_to_income_ratio,8.619779563104726e-10,32
+risk_band_Low Risk,1.9685736096577708e-10,33
+loan_to_income_ratio,2.4745851793459617e-11,34
+employment_status_clients_Retired,2.5434133332339108e-12,35
